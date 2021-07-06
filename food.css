@@ -65,6 +65,12 @@ h1{
     margin: 10%;
     box-shadow: 15px 15px 60px gray;
     border-radius: 20px;
-    padding: 9%;
+    padding: 20px 250px;
     display: flex;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: #fff;
+    padding: 1%;
 }
