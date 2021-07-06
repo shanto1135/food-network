@@ -33,4 +33,31 @@ h1{
 }
 .recipies{
     text-align: center;
+    margin-bottom: 5%;
+}
+.last-section{
+    width: 100px;
+    display: flex;
+}
+.last-fst-img img{
+    width: 440px;
+}
+#fst-id{
+   
+    margin-left: 15%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    padding: 6%;
+}
+#two-id{
+    margin-left: 15%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 20px;
+    padding: 6%;
+}
+#tree-id{
+    margin-left: 15%;
+    box-shadow: 10px 10px 60px gray;
+    border-radius: 20px;
+    padding: 6%;
 }
