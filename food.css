@@ -27,6 +27,9 @@ h1{
 #two-section{
     background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
+    width: 90%;
+    padding: 45px;
+    margin-left: -5px;
 }
 .about-class{
     margin-left: 7%;
