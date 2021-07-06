@@ -40,24 +40,31 @@ h1{
     display: flex;
 }
 .last-fst-img img{
-    width: 440px;
+    width: 400px;
 }
 #fst-id{
    
-    margin-left: 15%;
-    box-shadow: 10px 10px 40px gray;
+    margin: 10%;
+    box-shadow: 15px 15px 60px gray;
     border-radius: 20px;
-    padding: 6%;
+    padding: 9%;
 }
 #two-id{
-    margin-left: 15%;
-    box-shadow: 10px 10px 60px gray;
+    margin: 10%;
+    box-shadow: 15px 15px 60px gray;
     border-radius: 20px;
-    padding: 6%;
+    padding: 9%;
 }
 #tree-id{
-    margin-left: 15%;
-    box-shadow: 10px 10px 60px gray;
+    margin: 10%;
+    box-shadow: 15px 15px 60px gray;
     border-radius: 20px;
-    padding: 6%;
+    padding: 9%;
+}
+.youtube-class{
+    margin: 10%;
+    box-shadow: 15px 15px 60px gray;
+    border-radius: 20px;
+    padding: 9%;
+    display: flex;
 }
